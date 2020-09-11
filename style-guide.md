@@ -17,6 +17,8 @@ The designs were created to the following widths:
 ## Typography
 
 ### Body Copy
+main width: 326.5px
+main height: 307.5px
 
 - Font size: 32px
 
