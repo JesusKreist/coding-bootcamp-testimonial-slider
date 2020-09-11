@@ -4,3 +4,8 @@ font-family: 'IBM Plex Mono', monospace;
 font-family: 'IBM Plex Sans', sans-serif;
 font-family: 'Inter', sans-serif;
 */
+
+html {
+    font-size: 10px;
+    background-color: #F2F2F2;
+}
